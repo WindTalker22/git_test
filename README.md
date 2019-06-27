@@ -1,0 +1,1 @@
+This is Moose Mans first git project!
